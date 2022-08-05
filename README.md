@@ -8,7 +8,9 @@
 
 ## Summary of Findings
 - There is a general normal distribution on the variables with minor high frequency points on some fo the features such as investors who fund some loans and Borrowers APR.
-- 
+- The borrower rate increases with the term of the loan
+- there is a positive correlation between variables, BorrowerRate, borrowerAPR estimatedLoss
+- The term is directly correlated with the estimated return from the loans
 
 ## Key Insights for Presentation
 
