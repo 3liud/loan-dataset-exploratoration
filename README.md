@@ -1,17 +1,14 @@
 # (Dataset Exploration Title)
-## by (your name here)
+## by Eliud Nduati
 
 
 ## Dataset
 > This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
-
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
+> A majority of the Loans offered by the institution seem to be 36 months long followed by 60 months and 12 months beiing the least number of payment term offered
 
 ## Summary of Findings
-
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
+- There is a general normal distribution on the variables with minor high frequency points on some fo the features such as investors who fund some loans and Borrowers APR.
+- 
 
 ## Key Insights for Presentation
 
