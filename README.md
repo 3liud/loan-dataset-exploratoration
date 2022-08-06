@@ -19,7 +19,7 @@
 
 ## Key Insights for Presentation
 
-> The Most common Loan term is 36 months followed by 60 months. 12 months term loans are the least popular based on the data.
-> Loans with long term payment have a low Annual Percentage Rate offered to the customers.
-> Clients with 'Not employed' status have the highest borrowerRates and a moderate Loan term of 36 months.
-> Employed individuals have a lower BorrowerRate with higher/longer loan terms of upto 60 months.
+- The Most common Loan term is 36 months followed by 60 months. 12 months term loans are the least popular based on the data.
+- Loans with long term payment have a low Annual Percentage Rate offered to the customers.
+- Clients with 'Not employed' status have the highest borrowerRates and a moderate Loan term of 36 months.
+- Employed individuals have a lower BorrowerRate with higher/longer loan terms of upto 60 months.
